@@ -1,7 +1,0 @@
-README.md
-setup.py
-gptq_for_llama/__init__.py
-gptq_for_llama.egg-info/PKG-INFO
-gptq_for_llama.egg-info/SOURCES.txt
-gptq_for_llama.egg-info/dependency_links.txt
-gptq_for_llama.egg-info/top_level.txt

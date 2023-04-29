@@ -1,7 +1,6 @@
 import argparse
 import os
-from transformers.models.llama.convert_llama_weights_to_hf import write_model, write_tokenizer
-
+from transformers.models.llama.convert_llama_weights_to_hf import write_model,write_tokenizer
 
 def main():
     parser = argparse.ArgumentParser()
