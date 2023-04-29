@@ -14,7 +14,7 @@ def read(fname):
 
 setup(
     name="gptq_for_llama",
-    version="0.1.0",
+    version="0.1.1",
     url="https://github.com/paolorechia/gptq-for-llama-old",
     src=".",
     python_requires=">=3.9",
